@@ -23,3 +23,5 @@ for i in range(len(key)):
     if not isfind:
         anwser += ' '
 print anwser
+
+#ais3{I_tak3_g00d_n0t3s}
